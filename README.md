@@ -80,6 +80,6 @@ The `train` function trains the GPT model on the provided dataset.
 3. Creates a TextDataset object.
 4. Initializes the GPT model with the vocabulary size and configuration.
 5. Trains the model on the dataset.
-6. Generates new text based on an input string and prints the input and generated text.
+6. Generates new text based on an input string and prints the input and generated text.   
 
 
