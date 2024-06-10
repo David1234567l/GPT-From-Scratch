@@ -1,4 +1,4 @@
-GPT Using Pytorch 
+GPT Built Using Pytorch 
 
 ### Configuration
 The `Config` class contains the hyperparameters and configurations for the model:
