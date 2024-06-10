@@ -1,4 +1,3 @@
- This code is for building, training, and using a character-level language model using PyTorch. 
 
 ### Configuration
 The `Config` class contains the hyperparameters and configurations for the model:
