@@ -200,3 +200,4 @@ generated_text = ''.join([dataset.idx2char[idx.item()] for idx in generated_indi
 
 print("Input Text: ", input_text)
 print("Generated Text: ", generated_text)
+ 
