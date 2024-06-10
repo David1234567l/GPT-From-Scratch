@@ -1,4 +1,5 @@
 GPT Using Pytorch 
+
 ### Configuration
 The `Config` class contains the hyperparameters and configurations for the model:
 - `block_size`: Length of input sequences.
