@@ -1,4 +1,4 @@
-
+GPT Using Pytorch 
 ### Configuration
 The `Config` class contains the hyperparameters and configurations for the model:
 - `block_size`: Length of input sequences.
@@ -70,7 +70,7 @@ The `train` function trains the GPT model on the provided dataset.
 - `model`: GPT model.
 - `dataset`: TextDataset object.
 - `config`: Configuration object.
-- It initializes the data loader, optimizer, and loss function, then trains the model for the specified number of epochs, printing the loss at regular intervals.
+- It initializes the data loader, optimizer, and loss function, then trains the model for the specified number of epochs, printing the loss at regular intervals. 
 
 ### Example Usage   
 
