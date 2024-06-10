@@ -13,7 +13,7 @@ class Config:
     dropout = 0.1
     learning_rate = 3e-4
     max_grad_norm = 1.0
-    epochs = 50   
+    epochs = 10   
     batch_size = 32
     max_new_tokens = 50
     temperature = 1.0
