@@ -1,4 +1,4 @@
- This code is for building, training, and using a character-level language model using PyTorch. Here’s a detailed explanation of each part:
+ This code is for building, training, and using a character-level language model using PyTorch. 
 
 ### Configuration
 The `Config` class contains the hyperparameters and configurations for the model:
@@ -73,8 +73,8 @@ The `train` function trains the GPT model on the provided dataset.
 - `config`: Configuration object.
 - It initializes the data loader, optimizer, and loss function, then trains the model for the specified number of epochs, printing the loss at regular intervals.
 
-### Example Usage
-The example usage section demonstrates how to use the defined classes and functions:
+### Example Usage   
+
 1. It sets the device to CUDA if available.
 2. Reads text from a file.
 3. Creates a TextDataset object.
@@ -82,4 +82,4 @@ The example usage section demonstrates how to use the defined classes and functi
 5. Trains the model on the dataset.
 6. Generates new text based on an input string and prints the input and generated text.
 
-This setup provides a complete pipeline for training a character-level language model and generating text based on the trained model.  
+
